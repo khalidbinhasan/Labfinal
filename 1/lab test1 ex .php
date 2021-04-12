@@ -1,5 +1,5 @@
 <?php
-require_once("databaseConnections.php");
+require_once("lab test 1.php");
 $con = createdb();
 ?>
 
